@@ -1,0 +1,7 @@
+C:\Users\студент25\source\repos\Подлисецкая\bin\Debug\Подлисецкая.exe.config
+C:\Users\студент25\source\repos\Подлисецкая\bin\Debug\Подлисецкая.exe
+C:\Users\студент25\source\repos\Подлисецкая\bin\Debug\Подлисецкая.pdb
+C:\Users\студент25\source\repos\Подлисецкая\obj\Debug\Подлисецкая.csprojAssemblyReference.cache
+C:\Users\студент25\source\repos\Подлисецкая\obj\Debug\Подлисецкая.csproj.CoreCompileInputs.cache
+C:\Users\студент25\source\repos\Подлисецкая\obj\Debug\Подлисецкая.exe
+C:\Users\студент25\source\repos\Подлисецкая\obj\Debug\Подлисецкая.pdb
